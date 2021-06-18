@@ -2,6 +2,8 @@
 
 ## Instructions for making simple microservices using React
 
+### Project setup
+
 1. Make a directory for the project  
    `mkdir blog`
 1. Initiate git to start version control  
